@@ -26,7 +26,7 @@ body {
     border-radius: 10px; /* Arredondamento dos cantos */
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Sombra projetada */
     color: white; /* Cor do texto */
-    background-image: url('/images/fundo-escuro.jpg'); /* Imagem de fundo */
+    background-image: url('/images/Reseeft.jpeg'); /* Imagem de fundo */
     background-size: cover; /* Dimensionamento da imagem de fundo */
     background-repeat: no-repeat; /* Não repetir a imagem de fundo */
     animation: fadeIn 0.8s ease-out; /* Animação de fade-in */
