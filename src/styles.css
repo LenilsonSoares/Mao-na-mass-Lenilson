@@ -201,7 +201,7 @@ body {
     background-image: url('/images/5594016.jpg');
     background-size: cover; /* Para cobrir todo o espaço disponível */
     background-repeat: repeat; /* Ou 'no-repeat' se você quiser que não se repita */
-  
+    background-color: #f7f7f7; /* Cor de fundo de backup */
 }
 
 /* Estilos para SVG */
