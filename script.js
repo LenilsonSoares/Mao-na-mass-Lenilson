@@ -12,7 +12,6 @@ document.addEventListener("DOMContentLoaded", () => {
             section.classList.remove("animate"); // Remove a classe "animate" ao sair o mouse da seção
         });
     });
- 
 
     // Adiciona evento de clique para o título principal
     mainTitle.addEventListener("click", () => {
@@ -116,7 +115,6 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-   
 });
 
 
